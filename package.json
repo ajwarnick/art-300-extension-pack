@@ -1,5 +1,6 @@
 {
     "name": "art-300-extension-pack",
+    "publisher": "ajwarnick",
     "displayName": "Art 300 Extension Pack",
     "description": "A set of extensions to make learning code easier",
     "version": "0.0.1",

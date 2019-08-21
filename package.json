@@ -16,6 +16,9 @@
       "ritwickdey.LiveServer",
       "formulahendry.auto-rename-tag",
       "hwencc.html-tag-wrapper",
-      "formulahendry.auto-close-tag"
+      "formulahendry.auto-close-tag",
+        "kamikillerto.vscode-colorize",
+        "mkaufman.HTMLHint",
+        "pranaygp.vscode-css-peek"
     ]
 }

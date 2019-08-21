@@ -2,11 +2,16 @@
 
 ## This is the README for your extension pack "art-300-extension-pack"
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Here are some useful benifits of this extension pack:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* Provide a local virtual server for developing 
+* Automatically close your tags so you don't forget
+* Allows you to rename both halves of your tags simultaneously
+* Highlight and wrap blocks of code in new tags
+* Provide visual coloring of Hex Color Codes
+* Receive error codes for malformed HTML
+* Peek at the CSS for a tag right in your HTML
+* Prettifie your code so it is easier to read
 
 ## Contents:
 
@@ -15,11 +20,11 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Html Tag Wrapper](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper)
 
+- [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [JavaScript Prettier](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptPrettier)
 
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## You will need to install this on each computer you work on
 
 **Enjoy!**

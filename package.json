@@ -3,7 +3,7 @@
     "publisher": "ajwarnick",
     "displayName": "Art 300 Extension Pack",
     "description": "A set of extensions to make learning code easier",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.36.0"
     },
@@ -14,10 +14,10 @@
         "publisher.extensionName"
     ],
     "extensionDependencies": [
-      "ritwickdey.LiveServer",
-      "formulahendry.auto-rename-tag",
-      "hwencc.html-tag-wrapper",
-      "formulahendry.auto-close-tag",
+        "ritwickdey.LiveServer",
+        "formulahendry.auto-rename-tag",
+        "hwencc.html-tag-wrapper",
+        "formulahendry.auto-close-tag",
         "kamikillerto.vscode-colorize",
         "mkaufman.HTMLHint",
         "pranaygp.vscode-css-peek"

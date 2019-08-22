@@ -3,7 +3,7 @@
     "publisher": "ajwarnick",
     "displayName": "Art 300 Extension Pack",
     "description": "A set of extensions to make learning code easier",
-    "version": "0.0.2",
+    "version": "0.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },

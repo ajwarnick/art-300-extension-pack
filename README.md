@@ -1,6 +1,6 @@
 # README
 
-## This is the README for your extension pack "art-300-extension-pack"
+## This is the extension pack "art-300-extension-pack"
 
 Here are some useful benifits of this extension pack:
 

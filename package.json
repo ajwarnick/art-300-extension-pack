@@ -1,0 +1,26 @@
+{
+    "name": "art-300-extension-pack",
+    "publisher": "AnthonyWarnick",
+    "displayName": "Art 300 Extension Pack",
+    "description": "A set of extensions to make learning code easier",
+    "version": "1.1.0",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName"
+    ],
+    "extensionDependencies": [
+        "ritwickdey.LiveServer",
+        "formulahendry.auto-rename-tag",
+        "hwencc.html-tag-wrapper",
+        "formulahendry.auto-close-tag",
+        "kamikillerto.vscode-colorize",
+        "mkaufman.HTMLHint",
+        "kamikillerto.vscode-linthtml",
+        "pranaygp.vscode-css-peek"
+    ]
+}

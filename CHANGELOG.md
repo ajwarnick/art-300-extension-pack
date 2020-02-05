@@ -4,10 +4,13 @@ All notable changes to the "art-300-extension-pack" extension pack will be docum
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-Add https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter
+## [1.2.0] - 2020-02-05
+
+- Fixed error from LintHTML by adding npm dependency [@linthtml/linthtml](https://github.com/linthtml/linthtml#readme) 
 
 ## [1.1.0] - 2019-09-21
 
+- Added [JS-CSS-HTML Formatter](https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter)
 - Added [LintHTML](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-linthtml)
 
 ## [1.0.0] - 2019-09-21

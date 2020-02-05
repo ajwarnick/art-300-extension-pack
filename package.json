@@ -3,7 +3,8 @@
     "publisher": "AnthonyWarnick",
     "displayName": "Art 300 Extension Pack",
     "description": "A set of extensions to make learning code easier",
-    "version": "1.1.0",
+    "repository": "https://github.com/ajwarnick/art-300-extension-pack",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.36.0"
     },
@@ -21,6 +22,10 @@
         "kamikillerto.vscode-colorize",
         "mkaufman.HTMLHint",
         "kamikillerto.vscode-linthtml",
-        "pranaygp.vscode-css-peek"
-    ]
+        "pranaygp.vscode-css-peek",
+        "lonefy.vscode-JS-CSS-HTML-formatter"
+    ],
+    "dependencies": {
+        "@linthtml/linthtml": "^0.3.2"
+    }
 }
